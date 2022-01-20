@@ -1,3 +1,5 @@
+![Rosa con Nubes Lindas y Galaxia General Banner para Twitch](https://user-images.githubusercontent.com/84212184/150248525-e4f1d2a2-d512-488f-97f5-997bb1a38d35.png)
+
 ### Hola! Soy Sofia 👋
 
 - ⚽Actualmente trabajo en un colegio como profesora de Ed. Fisíca.  
