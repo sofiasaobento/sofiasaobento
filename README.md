@@ -1,4 +1,5 @@
-![Rosa con Nubes Lindas y Galaxia General Banner para Twitch](https://user-images.githubusercontent.com/84212184/150248525-e4f1d2a2-d512-488f-97f5-997bb1a38d35.png)
+![banner github](https://user-images.githubusercontent.com/84212184/150253340-48954b34-501a-4997-a615-c1fa910d9dc2.png)
+
 
 ### Hola! Soy Sofia 👋
 
