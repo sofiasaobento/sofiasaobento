@@ -3,9 +3,8 @@
 
 ### Hola! Soy Sofia 👋
 
-- ⚽Actualmente trabajo en un colegio como profesora de Ed. Fisíca.  
-- 🖥️ Me encuentro estudiando programación.
-- ✉️Puedes contactarme: sofiasaobento01@gmail.com
+- Analista Funcional Jr.  
+- ✉️Puedes contactarme: sofia.saobento01@gmail.com
 
 <h2>Tecnologias</h2>
 <div estilo= "display: inline_block"><br> 
